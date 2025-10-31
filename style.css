@@ -1,3 +1,10 @@
 p{
     background-color: lightskyblue;
+    
+}
+image{
+    border: 2px solid black;
+    padding: 20;
+    height: 100;
+    width: 100;
 }
