@@ -2,9 +2,10 @@ p{
     background-color: lightskyblue;
     
 }
-image{
-    border: 2px solid black;
+img{
+    border: 2px solid blue;
     padding: 20;
-    height: 100;
-    width: 100;
+    height: 10;
+    width: 10;
+    margin: 200;
 }
